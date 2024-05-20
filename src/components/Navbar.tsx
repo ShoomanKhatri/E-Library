@@ -7,13 +7,13 @@ const Navbar = () => {
     <nav>
       <div>
         <Link href="/">
-          <div className="flex items-center gap-1 relative">
-            <div className="">
+          <div className="flex items-center gap-1">
+            <div className="relative">
               <Hexagon />
               <BookIcon />
             </div>
 
-            <span className="text-xl font-bold uppercase tracking-tight text-red-800 bg-green-600">
+            <span className="text-xl font-bold uppercase tracking-tight text-primary-500 ">
               E-Library
             </span>
           </div>
