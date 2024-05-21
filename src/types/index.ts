@@ -1,8 +1,8 @@
-export type Book={
-    id:string,
-    title:string,
-    description:string,
-    CoverImage:string,
-    file:string
-
-}
+export type Book = {
+  id: string;
+  title: string;
+  description: string;
+  coverImage: string;
+  file: string;
+  author:
+};
